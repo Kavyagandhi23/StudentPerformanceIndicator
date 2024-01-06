@@ -48,7 +48,7 @@ To run and explore this project, follow these steps:
 ## Requirements
 1. Python 3.x
 2. Jupyter Notebook
-3. Libraries: pandas, scikit-learn, matplotlib, seaborn, Flask, 
+3. Libraries: pandas, scikit-learn, matplotlib, seaborn, Flask, XGBoost, CatBoost
 
 ## Results
 After running the notebooks, you will gain insights into the dataset through exploratory data analysis, build and train machine learning models for predicting student performance indicators, and evaluate the models using various metrics. Visualizations are provided to aid in the interpretation of results.
